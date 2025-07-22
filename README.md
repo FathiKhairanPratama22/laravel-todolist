@@ -1,4 +1,7 @@
-# 📝 Laravel ToDoList – Mini Project
+📝 Laravel ToDoList – Mini Project
+
+![GitHub Repo stars](https://img.shields.io/github/stars/FathiKhairanPratama22/laravel-todolist?style=social)
+![GitHub forks](https://img.shields.io/github/forks/FathiKhairanPratama22/laravel-todolist?style=social)
 
 Ini adalah Mini Project Aplikasi ToDoList berbasis Laravel, dibuat untuk memenuhi Mini Project KSM Sahabat PNJ - Divisi Web Profesional.  
 Aplikasi ini memungkinkan pengguna untuk membuat, mengedit, dan menghapus daftar tugas harian mereka dengan sistem autentikasi dan tampilan yang user-friendly.
