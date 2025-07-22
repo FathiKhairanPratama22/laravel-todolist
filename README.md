@@ -1,6 +1,6 @@
 📝 Laravel ToDoList – Mini Project
 
-Ini adalah Mini Project Aplikasi ToDoList berbasis Laravel, dibuat untuk memenuhi Mini Project KSM Sahabat PNJ - Divisi Web Profesional.  
+Ini adalah Mini Project Aplikasi ToDoList berbasis Laravel, dibuat untuk memenuhi Tugas Mini Project KSM Sahabat PNJ - Divisi Web Profesional.  
 Aplikasi ini memungkinkan pengguna untuk membuat, mengedit, dan menghapus daftar tugas harian mereka dengan sistem autentikasi dan tampilan yang user-friendly.
 
 👨‍💻 Developer
